@@ -1,5 +1,5 @@
 ## EX.NO: 12 <br>
-## DATE: 
+## DATE: 31.05.2023
 ## <p align="center">HUFFMAN CODING</p>
 
 ## Aim
